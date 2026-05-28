@@ -1,7 +1,10 @@
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 EXP NO :04
+
 DATE   :11/05/2026
+
 NAME   :Gowtham S
+
 REG NO :212224100018
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 12 seconds, serivice time of lathe machine follows exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
@@ -50,6 +53,7 @@ print("---------------------------------------------------------------")
 ```
 ## Output :
 <img width="860" height="404" alt="image" src="https://github.com/user-attachments/assets/b4186ec7-b37c-40b1-8115-2debd730bdbd" />
+
 ## Result :
 Thus, the performance measures of the single-server queue system are successfully calculated.
 
